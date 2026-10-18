@@ -1,23 +1,20 @@
-# Post-project review — stakeholders & real-world scope
+# Podcast Studio - Post-project Review
 
-**Track:** Module 4 — Project / PM · **When:** Week 2, Day 4 · **Status:** Optional / Extra
+Submission for **LAB | Post-project review - stakeholders & real-world scope** (Ironhack, Week 2).
 
-This repository contains everything you need for this lab.
+## Author
 
-## Files
+Sergii Rostovskyi
 
-- [`instructions.md`](./instructions.md) — the lab instructions
-- [`rubric.md`](./rubric.md) — how your submission is graded; this is what the AI reviewer checks your PR against
+## File map
 
-## How to complete this lab
+- [podcast-studio-post-project-review.md](podcast-studio-post-project-review.md): all four required parts, stakeholder prioritization, and the completed lab checkpoints.
+- `README.md`: repository map and submission instructions.
 
-1. **Fork** this repository.
-2. Do the work described in `instructions.md`, committing to your fork.
-3. Open a **pull request** back into this repository.
-4. You'll receive **AI feedback** on your PR based on `rubric.md`. Address any blocking feedback and push updates to the same PR.
+## Submission
 
-## Submission hygiene
+No code, presentation, PDF, WBS, detailed budget, contracts, or full risk register is required by this lab. The Markdown report contains the requested deliverables directly.
 
-- Keep this repository scoped to this lab only — no unrelated projects or personal files.
-- Use clear, descriptive filenames.
-- Remove secrets, API keys, and tokens before committing.
+## Evidence boundary
+
+The completed MVP is described from the supplied project summary, not an independent code audit. Production changes are proposals, not completed work or approved commitments. No client rollout, user research, measured learning benefit, or formal client acceptance is claimed.
